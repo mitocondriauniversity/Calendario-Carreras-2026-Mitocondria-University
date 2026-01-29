@@ -242,6 +242,28 @@
     "comentarios": ""
   },
   {
+    "mes": "JULIO",
+    "fecha": "25-26/ JUL / 2026",
+    "nombre": "ULTRA COAHUILA",
+    "sede": "Mesa de las Tablas,\nCoahuila",
+    "distancias": "12K\n30K\n50K\n83K\n100K\n160K",
+    "desniveles": "480m+\n1,560m+\n2,360m+\n3,530m+\n4,650m+\n7,700m+",
+    "dificultad": "Extrema",
+    "enlaces": "https://www.ultracoahuila.com/ultra/distancias",
+    "comentarios": "AUN SIN INFORMACIÓN"
+  },
+  {
+    "mes": "AGOSTO",
+    "fecha": "9 / AGO / 2026",
+    "nombre": "HUB TRAIL LA PRIMAVERA ADIDAS",
+    "sede": "La Primavera, Zapopan, Jal",
+    "distancias": "12K\n22K\",
+    "desniveles": "m+\n1,560m+\n2,514m+\n4,678m+",
+    "dificultad": "Extrema",
+    "enlaces": "https://www.hubsports.mx/eventos/adidas-terrex-hub-trail-12k-22k-la-primavera-gdl",
+    "comentarios": "PREVENTA ABIERTA"
+  },
+  {
     "mes": "AGOSTO",
     "fecha": "16 AGO",
     "nombre": "ULTRA TEQUILA",
@@ -264,17 +286,6 @@
     "comentarios": "AUN SIN INFORMACIÓN"
   },
   {
-    "mes": "JULIO",
-    "fecha": "25-26/ JUL / 2026",
-    "nombre": "ULTRA COAHUILA",
-    "sede": "Mesa de las Tablas,\nCoahuila",
-    "distancias": "12K\n30K\n50K\n83K\n100K\n160K",
-    "desniveles": "480m+\n1,560m+\n2,360m+\n3,530m+\n4,650m+\n7,700m+",
-    "dificultad": "Extrema",
-    "enlaces": "https://www.ultracoahuila.com/ultra/distancias",
-    "comentarios": "AUN SIN INFORMACIÓN"
-  },
-  {
     "mes": "AGOSTO",
     "fecha": "AGOSTO",
     "nombre": "LAS PEÑAS TRAIL RACE",
@@ -287,14 +298,15 @@
   },
   {
     "mes": "SEPTIEMBRE",
-    "fecha": "18-20 / SEP / 2026",
-    "nombre": "TRANSNAVAJAS",
-    "sede": "Real del Monte, Hidalgo",
-    "distancias": "15K\n30K\n60K\n100M ",
-    "desniveles": "616m+\n1,293m+\n2,514m+\n4,678m+",
-    "dificultad": "Extrema",
-    "enlaces": "https://linktr.ee/trailrunhidalgo",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "fecha": "14-19 / SEP / 2026",
+    "nombre": "NÓMADAS BAJA ULTRA",
+    "sede": "14-19 / SEP / 2026",
+    "distancias": "135K\n
+3 ETAPAS\n65K-35K-37K",
+    "desniveles": "m+",
+    "dificultad": "Alta",
+    "enlaces": "https://www.nomadasbajaultra.com/",
+    "comentarios": "135 km, distribuidos en 3 etapas a lo largo de 3 días de actividades. Cruza el histórico Camino Real Misional en pleno corazón del Valle de los Cirios. Desde el Océano Pacífico en Playa Altamira hasta el Mar de Cortés en Bahía de Los Ángeles"
   },
   {
     "mes": "SEPTIEMBRE",
@@ -367,10 +379,22 @@
     "fecha": "NOVIEMBRE",
     "nombre": "DON DIABLO TRAIL RUN",
     "sede": "La Paz, Baja California Sur",
-    "distancias": "18K\n37K\n50K (ETAPAS)",
-    "desniveles": "m+\nm+\nm+",
+    "distancias": "18K\n37K\n50K POR ETAPAS",
+    "desniveles": "455m+\n1,700m+\nm+",
     "dificultad": "Alta",
     "enlaces": "https://dondiablotrailrun.com/",
     "comentarios": "AUN SIN INFORMACIÓN"
+  },
+  {
+    "mes": "DICIEMBRE",
+    "fecha": "3-4-5-6 / DIC / 2026",
+    "nombre": "MAR A MAR TRAIL",
+    "sede": "Los Barriles, La Paz, BCS",
+    "distancias": "103K\n
+3 ETAPAS\n36K-35K-32K",
+    "desniveles": "2,000m+\n2,100m+\n450m+",
+    "dificultad": "Alta",
+    "enlaces": "https://maramartrail.com/",
+    "comentarios": "Tres etapas del evento, que suman un total de 105 km desde el Mar de Cortés hasta el Océano Pacífico, atravesando la Sierra de la Laguna. Dos noches de campamento "
   }
 ]
