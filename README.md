@@ -1,6 +1,6 @@
-# 🏃‍♂️ Calendario Trail Running 2026 - Mitocondria University ⛰️
+# Calendario Running 2026 - Mitocondria University
 
-Calendario interactivo de carreras de trail running para el año 2026.
+Calendario interactivo de carreras de trail running y asfalto para el año 2026.
 
 ## 🌟 Características
 
@@ -27,7 +27,7 @@ Calendario interactivo de carreras de trail running para el año 2026.
 
 1. **Crea un repositorio nuevo:**
    - Ve a [github.com/new](https://github.com/new)
-   - Nombre: `calendario-trail-2026` (o el que prefieras)
+   - Nombre: `calendario-running-2026` (o el que prefieras)
    - Marca como "Public"
    - Click en "Create repository"
 
@@ -67,13 +67,13 @@ git push -u origin main
 Una vez desplegado, comparte el enlace:
 
 ```
-🏃‍♂️ CALENDARIO TRAIL RUNNING 2026 ⛰️
+🏃‍♂️ CALENDARIO RUNNING 2026 ⛰️
 
 📅 Consulta todas las carreras:
 🔗 https://tu-usuario.github.io/calendario-trail-2026
 
 ✨ Características:
-- 34 carreras organizadas
+- carreras organizadas
 - Filtros por mes y dificultad
 - Enlaces directos a inscripciones
 - Funciona en cualquier dispositivo
