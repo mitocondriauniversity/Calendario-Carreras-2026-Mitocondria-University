@@ -56,6 +56,26 @@
   },
   {
     "mes": "FEBRERO",
+    "fecha": "15 FEB",
+    "nombre": "MEDIO MARATÓN TURÍSTICO PUERTO VALLARTA",
+    "sede": "Pto. Vallarta, Jalisco",
+    "distancias": "21K\n5K",
+    "dificultad": "Media",
+    "enlaces": "https://www.mediomaratonvallarta.com.mx/",
+    "comentarios": "Dos distancias: 21K y 5K"
+   },
+  {
+    "mes": "FEBRERO",
+    "fecha": "22 FEB",
+    "nombre": "21K GDL ELECTROLIT 2026",
+    "sede": "Guadalajara, Jalisco",
+    "distancias": "21K",
+    "dificultad": "Media",
+    "enlaces": "https://21kgdl.com/",
+    "comentarios": "Más de 20,000 inscripciones"
+   },
+  {
+    "mes": "FEBRERO",
     "fecha": "20-22 / FEB / 2026",
     "nombre": "DESAFÍO EN LAS NUBES",
     "sede": "Xicotepec de Juárez, Pue.",
@@ -65,6 +85,16 @@
     "enlaces": "https://desafioenlasnubes.com/",
     "comentarios": ""
   },
+  {
+    "mes": "MARZO",
+    "fecha": "1 MAR",
+    "nombre": "MARATÓN LALA 2026",
+    "sede": "Torreón, Coahuila",
+    "distancias": "42K",
+    "dificultad": "Alta",
+    "enlaces": "https://maratonlala.org/",
+    "comentarios": ""
+   },
   {
     "mes": "MARZO",
     "fecha": "5-7 / MAR /2026",
@@ -99,6 +129,16 @@
     "comentarios": ""
   },
   {
+    "mes": "MARZO",
+    "fecha": "29 MAR",
+    "nombre": "Carrera Zorros",
+    "sede": "Zapopan, Jal.",
+    "distancias": "10K\n5K\n3K",
+    "dificultad": "Baja",
+    "enlaces": "https://www.tim3.com.mx/evento/zorros_2026",
+    "comentarios": "Salida y Meta: Club Atlas Chapalita"
+   },
+  {
     "mes": "ABRIL",
     "fecha": "19 ABR",
     "nombre": "ZACATLAN TRAIL MARATHON",
@@ -109,6 +149,16 @@
     "enlaces": "https://app.reckoord.com/event/3",
     "comentarios": ""
   },
+  {
+    "mes": "ABRIL",
+    "fecha": "19 ABR",
+    "nombre": "Maratón y Medio Maratón Puerto Vallarta",
+    "sede": "Pto. Vallarta, Jal.",
+    "distancias": "42K\n21K\n10K\n5K",
+    "dificultad": "Alta",
+    "enlaces": "https://maratonpuertovallarta.com/",
+    "comentarios": "Nueva ruta: SALIDA Y META MALECÓN PUERTO VALLARTA"
+   },
   {
     "mes": "ABRIL",
     "fecha": "24-25 / ABR / 2026",
@@ -131,6 +181,16 @@
     "enlaces": "runpalskymexico@gmail.com / facebook: Runpalsky\n\nInstagram: @runpalskymexico",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
+  {
+    "mes": "MAYO",
+    "fecha": "3 MAY",
+    "nombre": "Las Crucitas",
+    "sede": "Tlaqupaque, Jal.",
+    "distancias": "10.4K\n3.4K",
+    "dificultad": "Baja",
+    "enlaces": "https://comudetlaquepaque.com/serial-de-carreras/",
+    "comentarios": "Se celebra cada 3 de mayo, por la tarde, a las 17:00 horas. Recorre las cuatro crucitas de los barrios tradicionales del municipio."
+   },
   {
     "mes": "MAYO",
     "fecha": "15-16 / MAY / 2026",
@@ -156,6 +216,16 @@
   {
     "mes": "MAYO",
     "fecha": "17 MAY",
+    "nombre": "Medio Maratón Internacional Zapopan",
+    "sede": "Zapopan, Jal.",
+    "distancias": "21K",
+    "dificultad": "Media",
+    "enlaces": "https://www.marcate.com.mx/evento/SPTMCAR1763138497/",
+    "comentarios": "Punto de Salida y Meta: Av. Hidalgo # 151."
+   },
+  {
+    "mes": "MAYO",
+    "fecha": "17 MAY",
     "nombre": "TRAVESÍA DE LAS SIERRAS\n(CIRCUITO: SOLO PARA SALVAJES)",
     "sede": "Villa del Carbón, EDOMEX",
     "distancias": "50K\n50M\n100K\n100M ",
@@ -164,6 +234,26 @@
     "enlaces": "https://www.soloparasalvajes.com.mx/index.php/calendario/37-ts-travesia-en-las-sierras-50-km-50-millas-100-km-100-millas",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
+  {
+    "mes": "JUNIO",
+    "fecha": "14 MJUN",
+    "nombre": "Medio Maratón San Javier, Club Privado",
+    "sede": "Zapopan, Jal.",
+    "distancias": "21K\n10K\n5K",
+    "dificultad": "Media",
+    "enlaces": "https://www.clubsanjavier.org.mx/mediomaratonn",
+    "comentarios": "21K y rutas adicionales: 5K y 10K."
+   },
+  {
+    "mes": "JUNIO",
+    "fecha": " JUN",
+    "nombre": "MEDIO MARATÓN LOS CAMINOS DE ATOTONILCO",
+    "sede": "Tlaquepaque, Jal.",
+    "distancias": "12K\n21K",
+    "dificultad": "Media",
+    "enlaces": "",
+    "comentarios": "Aún sin fecha"
+   },
   {
     "mes": "JUNIO",
     "fecha": "27-28 / JUN / 2026",
@@ -177,6 +267,16 @@
   },
   {
     "mes": "JUNIO",
+    "fecha": "28 JUN",
+    "nombre": "MEDIO MARATÓN Y 5K TLAQUEPAQUE",
+    "sede": "Tlaquepaque, Jal.",
+    "distancias": "21K\n5K",
+    "dificultad": "Media",
+    "enlaces": "https://comudetlaquepaque.com/serial-de-carreras/",
+    "comentarios": "Salida y meta: Centro San Pedro Tlquepaque"
+   },
+  {
+    "mes": "JUNIO",
     "fecha": "JUNIO",
     "nombre": "TRAIL DE LA MIXTECA",
     "sede": "San Mateo Tlapiltepec\nOaxaca",
@@ -186,6 +286,16 @@
     "enlaces": "https://www.corremejia.com/",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
+  {
+    "mes": "JULIO",
+    "fecha": " JUL",
+    "nombre": "MEDIO MARATÓN CIUDAD DE MÁXICO",
+    "sede": "CDMX",
+    "distancias": "21K",
+    "dificultad": "Media",
+    "enlaces": "hhttps://21k.cdmx.gob.mx/",
+    "comentarios": "Aún sin confirmar fecha"
+   },
   {
     "mes": "JULIO",
     "fecha": "18-19 / JUL / 2026",
@@ -254,6 +364,26 @@
   },
   {
     "mes": "AGOSTO",
+    "fecha": " AGO",
+    "nombre": "CARRERA DOLPHY",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "5K\n10K",
+    "dificultad": "Baja",
+    "enlaces": "",
+    "comentarios": "Aún sin fecha"
+   },
+  {
+    "mes": "AGOSTO",
+    "fecha": " AGO",
+    "nombre": "MARATÓN CIUDAD DE MÁXICO",
+    "sede": "CDMX",
+    "distancias": "42K",
+    "dificultad": "Alta",
+    "enlaces": "https://maraton.cdmx.gob.mx/",
+    "comentarios": "Aún sin confirmar fecha"
+   },
+  {
+    "mes": "AGOSTO",
     "fecha": "9 / AGO / 2026",
     "nombre": "HUB TRAIL LA PRIMAVERA ADIDAS",
     "sede": "La Primavera, Zapopan, Jal",
@@ -309,6 +439,16 @@
   },
   {
     "mes": "SEPTIEMBRE",
+    "fecha": "19 SEP",
+    "nombre": "Carrera de las Antorchas",
+    "sede": "Tlaquepaque, Jal.",
+    "distancias": "5.7K",
+    "dificultad": "Baja",
+    "enlaces": "https://comudetlaquepaque.com/serial-de-carreras/",
+    "comentarios": "Salida: 8 pm, Calle República y Cabañas, Gdl. Meta: Centro de San Pedro Tlaquepaque"
+   },
+  {
+    "mes": "SEPTIEMBRE",
     "fecha": "25-26 / SEP / 2026",
     "nombre": "CUETZALAN TRAIL",
     "sede": "Cuetzalán, PUEBLA",
@@ -318,6 +458,16 @@
     "enlaces": "https://dashport.run/evento_1152",
     "comentarios": ""
   },
+  {
+    "mes": "SEPTIEMBRE",
+    "fecha": " SEP",
+    "nombre": "Bimbo Global Race Guadalajara",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "3K\n5K\n10K",
+    "dificultad": "Baja",
+    "enlaces": "",
+    "comentarios": "Aún sin fecha"
+   },
   {
     "mes": "OCTUBRE",
     "fecha": "OCTUBRE",
@@ -341,6 +491,36 @@
     "comentarios": "AUN SIN INFORMACIÓN"
   },
   {
+    "mes": "OCTUBRE",
+    "fecha": "4 OCT",
+    "nombre": "Adidas SPLITS 15K/30K GDL",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "15K\n30K",
+    "dificultad": "Media",
+    "enlaces": "https://comudetlaquepaque.com/serial-de-carreras/",
+    "comentarios": "Cupo: 4,500 corredores. Salida y meta: Av. San Ignacio esquina Av. Vallarta"
+   },
+  {
+    "mes": "OCTUBRE",
+    "fecha": " OCT",
+    "nombre": "MEDIO MARATÓN TLAJOMULCO",
+    "sede": "Tlajomulco, Jal.",
+    "distancias": "21K",
+    "dificultad": "Media",
+    "enlaces": "",
+    "comentarios": "Aún sin fecha. Salida: Cuexcomatitlán. Meta: Cajititlán"
+   },
+  {
+    "mes": "OCTUBRE",
+    "fecha": " OCT",
+    "nombre": "Running Fest Liverpool Guadalajara",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "8K\n16K",
+    "dificultad": "Baja",
+    "enlaces": "",
+    "comentarios": "Aún sin confirmar fecha"
+   },
+  {
     "mes": "NOVIEMBRE",
     "fecha": "7-8 / NOV / 2026",
     "nombre": "LAS ANIMAS TRAIL + SUNRISE RUN",
@@ -351,6 +531,16 @@
     "enlaces": "https://linktr.ee/trailrunhidalgo",
     "comentarios": ""
   },
+   {
+    "mes": "NOVIEMBRE",
+    "fecha": " NOV",
+    "nombre": "G15K Gatorade Guadalajara",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "15K",
+    "dificultad": "Baja",
+    "enlaces": "",
+    "comentarios": "Aún sin confirmar fecha"
+   },
   {
     "mes": "NOVIEMBRE",
     "fecha": "NOVIEMBRE",
@@ -362,6 +552,16 @@
     "enlaces": "https://www.ultrailmexicoseries.com/ultra-tequila/",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
+  {
+    "mes": "NOVIEMBRe",
+    "fecha": " NOV",
+    "nombre": "21K CHAPALA",
+    "sede": "Chapala, Jal.",
+    "distancias": "5K\n10K\n21K",
+    "dificultad": "Media",
+    "enlaces": "",
+    "comentarios": "Aún sin fecha"
+   },
   {
     "mes": "NOVIEMBRE",
     "fecha": "NOVIEMBRE",
@@ -384,6 +584,16 @@
     "enlaces": "https://dondiablotrailrun.com/",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
+  {
+    "mes": "NOVIEMBRE",
+    "fecha": " NOV",
+    "nombre": "MARATÓN GDL",
+    "sede": "Guadalajara, Jal.",
+    "distancias": "42K",
+    "dificultad": "Alta",
+    "enlaces": "https://www.maratongdl.com/",
+    "comentarios": "Aún sin confirmar fecha"
+   },
   {
     "mes": "DICIEMBRE",
     "fecha": "3-4-5-6 / DIC / 2026",
