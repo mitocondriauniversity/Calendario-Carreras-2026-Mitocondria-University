@@ -39,7 +39,7 @@
     "sede": "El Zembo, HGO",
     "distancias": "7K\n17K\n27K ",
     "desniveles": "322 m+\n861 m+\n1,489 m+",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "https://carrerasmexico.com/convocatoria.php?event=06e7b8aa18684f145166377b8439df9a&api_key=48513987f33edea8",
     "comentarios": ""
   },
@@ -50,7 +50,7 @@
     "sede": "El Fresnito/La Mesa, Jalisco",
     "distancias": "18K",
     "desniveles": "1,000m+",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "runpalskymexico@gmail.com / facebook: Runpalsky\n\nInstagram: @runpalskymexico",
     "comentarios": "Inscripción con el Santi: 3411231269"
   },
@@ -81,7 +81,7 @@
     "sede": "Xicotepec de Juárez, Pue.",
     "distancias": "15K\n25K\n40K\n50K ",
     "desniveles": "1,000m+\n1,650m+\n2,900m+\n3,750m+",
-    "dificultad": "Alta",
+    "dificultad": "Ultra",
     "enlaces": "https://desafioenlasnubes.com/",
     "comentarios": ""
   },
@@ -145,7 +145,7 @@
     "sede": "Zacatlán Puebla",
     "distancias": "9K\n15K\n30K \n43K",
     "desniveles": "",
-    "dificultad": "Media",
+    "dificultad": "Alta",
     "enlaces": "https://app.reckoord.com/event/3",
     "comentarios": ""
   },
@@ -166,7 +166,7 @@
     "sede": "Tlatlauquitepec, Puebla",
     "distancias": "17K\n36K\n55K \n50M",
     "desniveles": "Sin info.",
-    "dificultad": "Alta",
+    "dificultad": "Ultra",
     "enlaces": "https://dashport.run/evento_1046",
     "comentarios": ""
   },
@@ -177,7 +177,7 @@
     "sede": "La Joya, Nevado Colima, Jal",
     "distancias": "KV\n21K",
     "desniveles": "950m+\n1,160m+",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "runpalskymexico@gmail.com / facebook: Runpalsky\n\nInstagram: @runpalskymexico",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
@@ -198,7 +198,7 @@
     "sede": "Jilotzingo, Estado de México",
     "distancias": "10K\n23K\n33K\n56K ",
     "desniveles": "460m+\n1,250m+\n1,550m+\n2,850m+",
-    "dificultad": "Baja",
+    "dificultad": "Alta",
     "enlaces": "https://www.ultrailmexicoseries.com/ultra-otomi/",
     "comentarios": ""
   },
@@ -256,14 +256,14 @@
    },
   {
     "mes": "JUNIO",
-    "fecha": "27-28 / JUN / 2026",
+    "fecha": "JUN",
     "nombre": "TEPEC TRAIL",
     "sede": "Los Reyes Tepezala\nHuasca de Ocampo, HGO",
     "distancias": "14K\n21K\n34K ",
     "desniveles": "600m+\n1,500m+\n1,800m+",
-    "dificultad": "Baja",
+    "dificultad": "Alta",
     "enlaces": "https://utmex.com/tepec/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": "SIN FECHA"
   },
   {
     "mes": "JUNIO",
@@ -282,7 +282,7 @@
     "sede": "San Mateo Tlapiltepec\nOaxaca",
     "distancias": "12K\n22K\n36K ",
     "desniveles": "m+\nm+\nm+",
-    "dificultad": "Baja",
+    "dificultad": "Alta",
     "enlaces": "https://www.corremejia.com/",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
@@ -303,7 +303,7 @@
     "sede": "La Estanzuela, HGO",
     "distancias": "6K\n12K\n21K",
     "desniveles": "",
-    "dificultad": "Baja",
+    "dificultad": "Media,
     "enlaces": "https://linktr.ee/trailrunhidalgo",
     "comentarios": ""
   },
@@ -314,7 +314,7 @@
     "sede": "GUANAJUATO, GTO.",
     "distancias": "11K\n24K\n33K\n46K",
     "desniveles": "550m+\n1,000m+\n1,500m+\n2,000m+",
-    "dificultad": "Baja",
+    "dificultad": "Alta",
     "enlaces": "https://www.ultrailmexicoseries.com/ultra-guanajuato/",
     "comentarios": ""
   },
@@ -325,7 +325,7 @@
     "sede": "Ajijic, Jal",
     "distancias": "7K\n12K\n24K ",
     "desniveles": "m+\n1,100m+\n1,800m+",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "https://inscripciones.baktun.io/trail-axixic-2026",
     "comentarios": ""
   },
@@ -347,7 +347,7 @@
     "sede": "Cholula, Pue.",
     "distancias": "10k\n20k",
     "desniveles": "Sin info.",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "https://dashport.run/evento_1151",
     "comentarios": ""
   },
@@ -360,7 +360,7 @@
     "desniveles": "480m+\n1,560m+\n2,360m+\n3,530m+\n4,650m+\n7,700m+",
     "dificultad": "Extrema",
     "enlaces": "https://www.ultracoahuila.com/ultra/distancias",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": ""
   },
   {
     "mes": "AGOSTO",
@@ -389,7 +389,7 @@
     "sede": "La Primavera, Zapopan, Jal",
     "distancias": "12K\n22K",
     "desniveles": "m+\n1,560m+\n2,514m+\n4,678m+",
-    "dificultad": "Extrema",
+    "dificultad": "Media",
     "enlaces": "https://www.hubsports.mx/eventos/adidas-terrex-hub-trail-12k-22k-la-primavera-gdl",
     "comentarios": "PREVENTA ABIERTA"
   },
@@ -402,7 +402,7 @@
     "desniveles": "210m+\n490m+\n830m+\n1,850m+\n2,200m+",
     "dificultad": "Ultra",
     "enlaces": "https://www.ultrailmexicoseries.com/ultra-tequila/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": ""
   },
   {
     "mes": "AGOSTO",
@@ -411,9 +411,9 @@
     "sede": "Calvillo, Aguascalientes",
     "distancias": "13K\n22K\n42K\n65K",
     "desniveles": "228m+\n557m+\n1,527m+\n2,318m+",
-    "dificultad": "Alta",
+    "dificultad": "Ultra",
     "enlaces": "https://www.ultratrailrunningags.com/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": "AUN SIN FECHA"
   },
   {
     "mes": "AGOSTO",
@@ -422,7 +422,7 @@
     "sede": "Cd. Guzmán, Jal",
     "distancias": "5K\n14K",
     "desniveles": "530m+\n800m+",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "runpalskymexico@gmail.com / facebook: Runpalsky\n\nInstagram: @runpalskymexico",
     "comentarios": "Inscripción con el santi: 3411231269"
   },
@@ -454,7 +454,7 @@
     "sede": "Cuetzalán, PUEBLA",
     "distancias": "10K\n20K\n35K",
     "desniveles": "Sin info.",
-    "dificultad": "Baja",
+    "dificultad": "Media",
     "enlaces": "https://dashport.run/evento_1152",
     "comentarios": ""
   },
@@ -477,7 +477,7 @@
     "desniveles": "Sin info.",
     "dificultad": "Ultra",
     "enlaces": "https://www.grancarreradeldesierto.com.mx/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": "AUN SIN FECHA"
   },
   {
     "mes": "OCTUBRE",
@@ -486,9 +486,9 @@
     "sede": "Chihuahua, Mex.",
     "distancias": "8.5K\n20K\n37K\n59K\n94K\n156M ",
     "desniveles": "200m+\n800m+\n1,700m+\n2,600m+\n4,400 m+\n8,000m+",
-    "dificultad": "Baja",
+    "dificultad": "Extrema",
     "enlaces": "https://chihuahua.utmb.world/es",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": ""
   },
   {
     "mes": "OCTUBRE",
@@ -520,6 +520,17 @@
     "enlaces": "",
     "comentarios": "Aún sin confirmar fecha"
    },
+  {
+    "mes": "NOVIEMBRE",
+    "fecha": "6-8 / NOV / 2026",
+    "nombre": "RETO VULCANO",
+    "sede": "Atzizintla, PUE",
+    "distancias": "14K\n30K\n40K",
+    "desniveles": "",
+    "dificultad": "Alta",
+    "enlaces": "https://carrerasmexico.com/convocatoria.php?event=f63980b7c3565c0620d7a2c5481bbb93&api_key=48513987f33edea8&fbclid=IwY2xjawOu1BFleHRuA2FlbQIxMABicmlkETFnZXVDMHdzUVVuaHFnY0ZKc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHodGa3LzWikaGM8wVvqIjZiXq6gGvb2hYrLuC4_GG4tsK2vu7oCOAzZ67xsg_aem_KEfAHeviGNcbK9l1nkyB8w",
+    "comentarios": "Sin info aún sobre desniveles"
+  },
   {
     "mes": "NOVIEMBRE",
     "fecha": "7-8 / NOV / 2026",
@@ -569,7 +580,7 @@
     "sede": "Mineral del Chico, Hidalgo",
     "distancias": "7K\n17K\n35K",
     "desniveles": "295m+\n1,010m+\n1,750m+",
-    "dificultad": "Baja",
+    "dificultad": "Alta",
     "enlaces": "https://corremejia.com/convocatoria",
     "comentarios": "AUN SIN INFORMACIÓN"
   },
@@ -582,7 +593,7 @@
     "desniveles": "455m+\n1,700m+\nm+",
     "dificultad": "Alta",
     "enlaces": "https://dondiablotrailrun.com/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": "AUN SIN FECHA"
   },
   {
     "mes": "NOVIEMBRE",
