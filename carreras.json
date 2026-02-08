@@ -172,6 +172,17 @@
   },
   {
     "mes": "MAYO",
+    "fecha": "2 / MAY / 2026",
+    "nombre": "UMA ULTRA MARATÓN De la Montaña al Mar",
+    "sede": "Tepic, Nayarit",
+    "distancias": "13K\n35K\n50K",
+    "desniveles": "388m+\n246m+\n1,591m+",
+    "dificultad": "Alta",
+    "enlaces": "https://metadeportiva.com/event/umma-ultra-maraton-de-la-montana-al-mar?fbclid=IwY2xjawP1m8FleHRuA2FlbQIxMABicmlkETFHZXloV05aN09zNkxnbXFkc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtpWfIEl_diR6x83leePPXCUdl3KinmdqIWJx8-gDohjYHbS18JsSO1OF83e_aem_uwcXRAA8qFMeU48TZnbqKw",
+    "comentarios": "Información completa a traves de Facebook"
+  },
+  {
+    "mes": "MAYO",
     "fecha": "2-3 / MAY / 2026",
     "nombre": "RUNPALSKY",
     "sede": "La Joya, Nevado Colima, Jal",
@@ -226,7 +237,7 @@
   },
   {
     "mes": "MAYO",
-    "fecha": "17 MAY",
+    "fecha": "17 / MAY",
     "nombre": "Medio Maratón Internacional Zapopan",
     "sede": "Zapopan, Jal.",
     "distancias": "21K",
@@ -236,18 +247,29 @@
    },
   {
     "mes": "MAYO",
-    "fecha": "17 MAY",
-    "nombre": "TRAVESÍA DE LAS SIERRAS\n(CIRCUITO: SOLO PARA SALVAJES)",
+    "fecha": "23-24 / MAY",
+    "nombre": "TRAVESÍA DE LAS SIERRAS\nCIRCUITO: SOLO PARA SALVAJES",
     "sede": "Villa del Carbón, EDOMEX",
     "distancias": "50K\n50M\n100K\n100M ",
     "desniveles": "1,775m+\n3,000m+\n3,600m+\n5,000m+",
     "dificultad": "Extrema",
     "enlaces": "https://www.soloparasalvajes.com.mx/index.php/calendario/37-ts-travesia-en-las-sierras-50-km-50-millas-100-km-100-millas",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": "XV TRAVESÍA EN LAS SIERRAS A TRAVÉS DE LAS SIERRAS DE MONTE BAJO Y MONTE ALTO. Circuito de Carreras de Trail, Montaña y Sky Running Sólo para Salvajes 2026"
   },
   {
     "mes": "JUNIO",
-    "fecha": "14 MJUN",
+    "fecha": "7 / JUN",
+    "nombre": "Sky Race Malinche",
+    "sede": "La Malinche",
+    "distancias": "10K\n13K",
+    "desniveles": "",
+    "dificultad": "Alta",
+    "enlaces": "https://www.facebook.com/share/16uga9FkA3/",
+    "comentarios": "TRIPLE CORONA de Solo Para Salvajes. Serial de carreras de Sky Running. Carreras de montaña que superan los 4,000 msnm, con un nivel técnico exigene."
+  },
+  {
+    "mes": "JUNIO",
+    "fecha": "14 / JUN",
     "nombre": "Medio Maratón San Javier, Club Privado",
     "sede": "Zapopan, Jal.",
     "distancias": "21K\n10K\n5K",
@@ -257,7 +279,7 @@
    },
   {
     "mes": "JUNIO",
-    "fecha": " JUN",
+    "fecha": "JUN",
     "nombre": "MEDIO MARATÓN LOS CAMINOS DE ATOTONILCO",
     "sede": "Atotonilco, Jal.",
     "distancias": "12K\n21K",
@@ -278,6 +300,17 @@
   },
   {
     "mes": "JUNIO",
+    "fecha": "28 / JUN",
+    "nombre": "Izta 4,000",
+    "sede": "Iztaccíhuatl",
+    "distancias": "10K\n25K",
+    "desniveles": "",
+    "dificultad": "Alta",
+    "enlaces": "https://www.facebook.com/share/16uga9FkA3/",
+    "comentarios": "TRIPLE CORONA de Solo Para Salvajes. Serial de carreras de Sky Running. Carreras de montaña que superan los 4,000 msnm, con un nivel técnico exigene."
+  },
+  {
+    "mes": "JUNIO",
     "fecha": "28 JUN",
     "nombre": "MEDIO MARATÓN Y 5K TLAQUEPAQUE",
     "sede": "Tlaquepaque, Jal.",
@@ -288,14 +321,14 @@
    },
   {
     "mes": "JUNIO",
-    "fecha": "JUNIO",
+    "fecha": "12-13 / JUNIO",
     "nombre": "TRAIL DE LA MIXTECA",
     "sede": "San Mateo Tlapiltepec\nOaxaca",
     "distancias": "12K\n22K\n36K ",
     "desniveles": "m+\nm+\nm+",
     "dificultad": "Alta",
     "enlaces": "https://www.corremejia.com/",
-    "comentarios": "AUN SIN INFORMACIÓN"
+    "comentarios": ""
   },
   {
     "mes": "JULIO",
@@ -339,6 +372,17 @@
     "dificultad": "Media",
     "enlaces": "https://inscripciones.baktun.io/trail-axixic-2026",
     "comentarios": ""
+  },
+  {
+    "mes": "JULIO",
+    "fecha": "26 / JUL",
+    "nombre": "Sky Iztaccíhuatl",
+    "sede": "Iztaccíhuatl",
+    "distancias": "15K\n21K",
+    "desniveles": "",
+    "dificultad": "Alta",
+    "enlaces": "https://www.facebook.com/share/16uga9FkA3/",
+    "comentarios": "TRIPLE CORONA de Solo Para Salvajes. Serial de carreras de Sky Running. Carreras de montaña que superan los 4,000 msnm, con un nivel técnico exigene."
   },
   {
     "mes": "JULIO",
