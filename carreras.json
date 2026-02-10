@@ -280,6 +280,17 @@
   },
   {
     "mes": "JUNIO",
+    "fecha": "13 / JUN",
+    "nombre": "La Chicharronera",
+    "sede": "Nevado de Colima, El Fresnito",
+    "distancias": "21K\n32K",
+    "desniveles": "1,600m+\n2,600m+",
+    "dificultad": "Alta",
+    "enlaces": "https://www.instagram.com/la.chicharronera?igsh=MXBtZGZvZXRwd20zdQ==",
+    "comentarios": "Tiene un nivel técnico exigene."
+  },
+  {
+    "mes": "JUNIO",
     "fecha": "14 / JUN",
     "nombre": "Medio Maratón San Javier, Club Privado",
     "sede": "Zapopan, Jal.",
